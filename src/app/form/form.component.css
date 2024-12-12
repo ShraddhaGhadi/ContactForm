@@ -1,5 +1,15 @@
 .main-div{margin: auto; padding: 50px 180px}
 .clr{color: #bf71a3;}
-.img-mac{width: 90vh;}
-.c1{    display: flex;align-items: center;}
-input{border: 1px solid grey;}
+.img-mac{width: 50vh;}
+/* .form-control.is-invalid{
+  background-image: none;
+} */
+/* input{border: 1px solid grey;} */
+pre {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+  }
+  
